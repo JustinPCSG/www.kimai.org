@@ -1,0 +1,9 @@
+developer: pcsg
+icon: fas fa-chart-line
+email: support@pcsg.de
+tags: [plugin]
+bundle:
+    name: "ANDashboardBundle"
+screenshots:
+    - pcsg-an-dashboard-bundle0
+    - pcsg-an-dashboard-bundle1

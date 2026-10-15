@@ -110,6 +110,9 @@ items:
     pcsg-recurring-budget-bundle:
         title: Wiederkehrende Budgets
         intro: Fügt automatisch Geld oder Zeit zu Ihren Projektbudgets auf einer wiederkehrenden Basis (mit benutzerdefiniertem Intervall) hinzu.
+    pcsg-an-dashboard-bundle:
+        title: AN Dashboard
+        intro: Persönliche Arbeitszeit-Bilanzen und übersichtliche Team-Auswertungen für Kimai.
     ticesoftware-kimaibar-macos-client:
         title: KimaiBar – native macOS-App für die Menüleiste
         intro: Erfasse deine Zeit mit der nativen macOS-App KimaiBar für deine Menüleiste und entscheide über deine Inaktivität effektiver.
@@ -275,6 +278,10 @@ screenshots:
         description: Beispiel für eine Budgetstatistik-E-Mail, die nach einem abgeschlossenen Budgetintervall an den Projektteamleiter gesendet wird.
     pcsg-recurring-budget-bundle0:
         description: Projekteinstellungen für wiederkehrendes Budget.
+    pcsg-an-dashboard-bundle0:
+        description: Arbeitszeit-Bilanz mit Beispieldaten und Verwaltungsfiltern.
+    pcsg-an-dashboard-bundle1:
+        description: Persönliches Arbeitszeit-Widget mit Beispieldaten.
     ticesoftware-kimaibar-macos-client1:
         description: Intelligente Zeiterfassung in Ihrer Menüleiste
     ticesoftware-kimaibar-macos-client2:
